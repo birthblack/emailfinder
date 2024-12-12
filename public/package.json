@@ -1,0 +1,16 @@
+{
+  "name": "email-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^20.0.0", 
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
